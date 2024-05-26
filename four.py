@@ -10,7 +10,7 @@ while(value>0):
           value = value // 10
 print("reversed answer is : " ,ans)          
 
-if(co == ans):
+if(co == ans):   
         print("Given code is palindrome")
 else:
         print("Given value is not Palindrome")
